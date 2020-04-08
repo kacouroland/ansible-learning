@@ -1,2 +1,2 @@
-# kacousergeroland-gmail.com
-Ansible Learning
+# Ansible learning
+Learning infrastructures automation with ansible
